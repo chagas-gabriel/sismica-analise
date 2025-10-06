@@ -1,0 +1,16 @@
+96 geofones dx=1m
+
+#file	x1(m)	stack
+#REVERSO
+1		97		20
+2		49		20
+3		3		20
+4		0,5		5
+#MEIO
+5	 -0,5/0,5	1   #fonte entre os geofones 48 e 49
+6				10
+#DIRETO
+7		3		20
+10		49		15
+12		97		30 
+13		0,5		7
